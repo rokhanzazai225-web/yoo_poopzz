@@ -1,0 +1,39 @@
+{
+  "eaglecraftServer": {
+    "name": "Yoo Poopzz Eaglecraft",
+    "description": "A browser-based Minecraft server powered by Eaglecraft",
+    "serverUrl": "ws://eaglecraft.yoopoopzz.local:3000",
+    "ip": "192.168.1.100",
+    "port": 3000,
+    "protocol": "websocket",
+    "version": "1.5.2",
+    "maxPlayers": 32,
+    "gamemode": "survival",
+    "difficulty": "normal",
+    "pvpEnabled": true,
+    "settings": {
+      "renderDistance": 8,
+      "enableChat": true,
+      "enableMultiplayer": true,
+      "allowBreakingBedrock": false,
+      "enableCommandBlocks": false,
+      "autoSave": true,
+      "saveInterval": 300
+    },
+    "worldSettings": {
+      "seed": "YooPoopzz2024",
+      "worldType": "default",
+      "generateStructures": true
+    },
+    "customItems": {
+      "specialSwords": "swords.json",
+      "specialArmor": "armor.json"
+    },
+    "authentication": {
+      "requireLogin": true,
+      "allowOfflineMode": false
+    },
+    "players": [],
+    "adminList": ["rokhanzazai225-web"]
+  }
+}
