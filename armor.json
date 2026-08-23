@@ -1,0 +1,64 @@
+{
+  "specialArmor": [
+    {
+      "id": "inferno-plate",
+      "name": "Inferno Plate Armor",
+      "description": "Armor forged in volcanic flames with heat resistance",
+      "defense": 20,
+      "special_ability": "Flame Shield - Reflects 30% of fire damage back to attacker",
+      "rarity": "legendary",
+      "color": "#FF4500",
+      "weight": "heavy"
+    },
+    {
+      "id": "frostward-mail",
+      "name": "Frostward Mail",
+      "description": "Enchanted mail that repels ice and cold",
+      "defense": 18,
+      "special_ability": "Chill Resistance - Immunity to freeze effects, +40% cold resistance",
+      "rarity": "legendary",
+      "color": "#1E90FF",
+      "weight": "medium"
+    },
+    {
+      "id": "shadow-cloak",
+      "name": "Shadow Cloak Armor",
+      "description": "A dark armor that bends light around the wearer",
+      "defense": 16,
+      "special_ability": "Shadow Veil - 25% chance to dodge incoming attacks",
+      "rarity": "epic",
+      "color": "#1A1A2E",
+      "weight": "light"
+    },
+    {
+      "id": "stormcalm-plate",
+      "name": "Stormcalm Plate",
+      "description": "Armor that nullifies electrical energy",
+      "defense": 19,
+      "special_ability": "Static Absorption - Absorbs 50% of lightning damage as shields",
+      "rarity": "legendary",
+      "color": "#FFD700",
+      "weight": "heavy"
+    },
+    {
+      "id": "soul-touched-robes",
+      "name": "Soul-Touched Robes",
+      "description": "Ancient robes that strengthen the wielder's life force",
+      "defense": 14,
+      "special_ability": "Soul Bond - Gain 1% max HP regeneration per second",
+      "rarity": "epic",
+      "color": "#8B008B",
+      "weight": "light"
+    },
+    {
+      "id": "dragonskin-mail",
+      "name": "Dragonskin Mail",
+      "description": "Crafted from the scales of ancient dragons",
+      "defense": 25,
+      "special_ability": "Dragon's Resilience - Reduce all damage by 15%, but move 20% slower",
+      "rarity": "legendary",
+      "color": "#2F4F4F",
+      "weight": "heavy"
+    }
+  ]
+}
