@@ -1,0 +1,49 @@
+{
+  "specialSwords": [
+    {
+      "id": "flameburst",
+      "name": "Flameburst Sword",
+      "description": "A sword engulfed in eternal flames",
+      "damage": 25,
+      "special_ability": "Fire Burst - Deals extra 50 fire damage in a 3x3 area",
+      "rarity": "legendary",
+      "color": "#FF6B35"
+    },
+    {
+      "id": "frostbite",
+      "name": "Frostbite Blade",
+      "description": "A blade forged in the ice of the north",
+      "damage": 22,
+      "special_ability": "Freeze - Slows enemies by 50% for 3 seconds",
+      "rarity": "legendary",
+      "color": "#00D4FF"
+    },
+    {
+      "id": "shadowbane",
+      "name": "Shadowbane",
+      "description": "A dark sword that feeds on shadow energy",
+      "damage": 28,
+      "special_ability": "Shadow Strike - Teleport behind enemy and deal 1.5x damage",
+      "rarity": "epic",
+      "color": "#2D1B69"
+    },
+    {
+      "id": "stormcutter",
+      "name": "Stormcutter",
+      "description": "A sword that channels the power of storms",
+      "damage": 24,
+      "special_ability": "Lightning Chain - Strikes up to 5 enemies with chain lightning",
+      "rarity": "legendary",
+      "color": "#FFD700"
+    },
+    {
+      "id": "soulreaver",
+      "name": "Soulreaver",
+      "description": "An ancient blade that drains life force",
+      "damage": 26,
+      "special_ability": "Life Drain - Heal for 50% of damage dealt",
+      "rarity": "epic",
+      "color": "#FF1493"
+    }
+  ]
+}
