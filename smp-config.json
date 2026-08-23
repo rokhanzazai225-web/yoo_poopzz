@@ -1,0 +1,28 @@
+{
+  "smpServer": {
+    "name": "Yoo Poopzz SMP",
+    "description": "A custom Survival Multiplayer server with special items",
+    "ip": "192.168.1.100",
+    "port": 25565,
+    "version": "1.20.1",
+    "maxPlayers": 20,
+    "gamemode": "survival",
+    "difficulty": "hard",
+    "pvpEnabled": true,
+    "settings": {
+      "spawnProtection": 16,
+      "viewDistance": 10,
+      "simulationDistance": 8,
+      "enableCommandBlocks": true,
+      "allowNether": true,
+      "enableRcon": true,
+      "rconPort": 25575,
+      "rconPassword": "change_me_please"
+    },
+    "customItems": {
+      "specialSwords": "swords.json",
+      "specialArmor": "armor.json"
+    },
+    "players": []
+  }
+}
